@@ -1,0 +1,17 @@
+
+.subtitle {
+    font-size: 300px;
+    background: red;
+}
+.home-container{
+    caret-color: transparent;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.animal-container {
+    display:flex;
+    flex-direction: row;
+}

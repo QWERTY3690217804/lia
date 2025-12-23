@@ -1,0 +1,8 @@
+.icon-grid {
+    display:flex;
+    caret-color: transparent;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap:30px;
+}
